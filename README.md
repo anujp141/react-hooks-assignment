@@ -1,7 +1,7 @@
 # Options for starting this assignment:
 
 ## Method 1: Cloning and Pushing to Your Own Repository
-This method will provide you with a React project that has a lot of the work already donefor you. If you want to primarily focus on passing props and creating new components in React rather than styling and building a view with JSX, choose this method. If you want a more hands-on, realistic approach, try Method 2.
+This method will provide you with a React project that has a lot of the work already done for you. If you want to primarily focus on writing callback functions that manipulating state and call react hooks rather than styling and building a view with JSX, choose this method. If you want a more hands-on, realistic approach, try Method 2.
 1. Fork this repository by clicking the "Fork" button in the top right corner of this page. This will create a copy of this repository in your GitHub account.
 2. Clone your forked repository to your local machine using the following command in your terminal:
     - `git clone https://github.com/your-username/react-hooks-assignment.git`
